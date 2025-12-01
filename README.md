@@ -49,10 +49,14 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxdiii&show_icons=true&theme=radical&hide_border=true" alt="Aadithya's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxdiii&theme=radical&hide_border=true" alt="Aadithya's Streak" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxdiii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,firebase,mysql,git&theme=dark" alt="My Skills" />
 </div>
