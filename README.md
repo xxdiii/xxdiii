@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I am currently a **3rd year CS Engineering Student**.
+- 🎓 I am currently a **4th year CS Engineering Student**.
 - 🌱 I’m currently learning the **MERN Stack** (MongoDB, Express, React, Node).
 - 👯 I’m looking to collaborate on **MERN Stack projects**.
 - 💬 Ask me about **Java, Python, or React**.
