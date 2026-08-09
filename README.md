@@ -102,6 +102,17 @@ Hi, I'm Aadithya, a Computer Science Engineering student passionate about buildi
 
 ---
 
+# ⏱️ Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 
 
 ### ⭐ Thanks for visiting my profile!
