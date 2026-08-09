@@ -90,11 +90,15 @@ Hi, I'm Aadithya, a Computer Science Engineering student passionate about buildi
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=xxdiii&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=xxdiii&theme=onedark&hide_border=false)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=xxdiii&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=xxdiii&theme=onedark&hide_border=true" />
+</p>
 
-![]([https://github-readme-stats.shion.dev/api/top-langs/?username=xxdiii&theme=onedark&layout=compact&theme=onedark](https://github-readme-stats.shion.dev/api/top-langs/?username=xxdiii&layout=compact&theme=onedark))
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=xxdiii&layout=compact&theme=onedark&hide_border=true" />
+</p>
 
 ---
 
