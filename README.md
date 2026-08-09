@@ -107,6 +107,11 @@ Hi, I'm Aadithya, a Computer Science Engineering student passionate about buildi
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   0 secs                █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
