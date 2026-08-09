@@ -16,6 +16,7 @@ jobs:
         with:
           
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: ${{ github.repository }}
 
           SHOW_TITLE: true
           SECTION_NAME: waka
@@ -29,3 +30,4 @@ jobs:
           STOP_AT_OTHER: true
 
           COMMIT_MESSAGE: Updated waka-readme graph
+          TARGET_BRANCH: main
