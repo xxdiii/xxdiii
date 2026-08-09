@@ -1,9 +1,12 @@
-name: Waka Readme
+name: WakaTime Readme Stats
+
+permissions:
+  contents: write
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,19 +14,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIME_RANGE: all_time
-          LANG_COUNT: 8
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+          SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_TITLE: true
-          
-      - uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: actions@github.com
-          message: "Updated WakaTime stats"
+          SHOW_MASKED_TIME: false
+
+          TIME_RANGE: all_time
+
+          LANG_COUNT: 8
+
+          SHOW_PROFILE_VIEWS: false
+          SHOW_SHORT_INFO: false
+
+          SECTION_NAME: waka
+
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+
+          STOP_AT_OTHER: false
+
+          CODE_LANG: txt
