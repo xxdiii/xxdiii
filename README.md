@@ -109,19 +109,19 @@ Hi, I'm Aadithya, a Computer Science Engineering student passionate about buildi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 23 August 2026
+From: 22 October 2025 - To: 24 August 2026
 
-Total Time: 264 hrs 59 mins
+Total Time: 265 hrs 33 mins
 
-JavaScript   128 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.46 %
-TypeScript   42 hrs 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-CSS          27 hrs 38 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Python       25 hrs 31 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-HTML         19 hrs 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-C            15 hrs 31 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-JSON         2 hrs 45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Bash         1 hr 55 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Other        42 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JavaScript   129 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.51 %
+TypeScript   42 hrs 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+CSS          27 hrs 38 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Python       25 hrs 31 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+HTML         19 hrs 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+C            15 hrs 31 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON         2 hrs 48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Bash         1 hr 56 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other        55 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
