@@ -109,7 +109,7 @@ Hi, I'm Aadithya, a Computer Science Engineering student passionate about buildi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 14 October 2026
+From: 22 October 2025 - To: 15 October 2026
 
 Total Time: 280 hrs 12 mins
 
